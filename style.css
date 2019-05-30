@@ -1,0 +1,105 @@
+body{ background: url("1.jpg") ;
+	
+}
+main{background: url("1.jpg"    );
+margin:0 auto;
+width: 1200px;
+height: 1600px; }
+
+
+	  nav{ display: flex; 
+	  background: url(2.jpg); 
+
+border-bottom-color: white ;
+border-bottom-style: solid;
+border-bottom-width: 1px ; 
+height:100px;
+justify-content: space-between;
+box-sizing: border-box;
+	   }
+.dgh {
+	width: 500px;
+	height: 100px;
+	float: left;
+	display: flex;	
+	justify-content: space-around;
+
+
+}
+.dgh img{
+	height: 100px;	
+} 	   
+
+.Dima{
+float: right;
+width: 600px;
+height: 100px;
+text-align: center;
+margin: 0 ;
+padding: 0;
+
+
+
+ }
+ .Dima ul{ list-style: none;
+ margin: 0;
+ padding: 0;
+  }
+ .Dima li{ 	font-family: Times 	New  Ro ...;
+  	color: white ;
+  	font-size: 18px ;
+  	display: inline-block;
+  	text-align: center;	
+  	line-height: 100px;
+  	position: relative;
+  	padding: 0;
+  	margin: 0;
+  	
+  }
+  li:hover{
+  	background: #ff9933;
+  	cursor: pointer;
+  	color: #402720;
+  }
+  .demon{ 
+  color: white ;
+  font-family: Times New Ro...;
+  font-size:40px;
+  text-align: center; 
+   }
+   .demon img { 
+   width: 1200px; } 
+   .demon1 img{ 
+   width:380px;
+   height:280px;
+   
+    }
+    .text_demon1{
+      background-color:black;
+      height: 280px;
+      width: 800px;
+      float:right;
+      color:white;
+        
+    }
+
+.demon2 img{ 
+width:380px;
+height:280px;
+ } 
+.text_demon2{
+     background-color:black;
+      height: 280px;
+      width: 800px;
+      float:right;
+      color:white;
+     }
+     .Dima a{ 
+     color: white; }
+     .demon3{
+      text-align:center;
+      font-size:100px;
+     }
+     .demon3 a{
+      color: orange;
+     }
